@@ -9,3 +9,13 @@ link: https://nodejs.org/en/
 * Referênciando variáveis
 * Faça como eu fiz na aula
 * O que aprendemos?
+
+- O que aprendemos nessa aula:
+
+- Usando o REPL no NodeJS
+
+- Como imprimir valores na tela
+
+- Declaração de variáveis
+
+- Operadores aritméticos
