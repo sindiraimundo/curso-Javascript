@@ -3,7 +3,7 @@ Introdução ao Javascript - primeiros passos
 Instalando NODE.js - para utilizarmos como interpretador.
 link: https://nodejs.org/en/
 
-* Introdução
+1 - Introdução
 * Instalando requisitos
 * Guardando Valores na memória do computador
 * Referênciando variáveis
@@ -19,3 +19,11 @@ link: https://nodejs.org/en/
 - Declaração de variáveis
 
 - Operadores aritméticos
+
+2 - Tipos de Variáveis
+
+- Boas práticas
+
+- Seguindo convenções
+    -palavras reservadas const e let, para armazenar textos e números.
+
