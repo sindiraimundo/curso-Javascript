@@ -56,4 +56,4 @@
     - Debbuge
     - entendendo fluxo de execução do código
 
-    <img src="./assets/Certificado Sindi - Alura Javascript primeiros passos.jpg"/>
+    <img src="../assets/Certificado Sindi - Alura Javascript primeiros passos.jpg"/>
