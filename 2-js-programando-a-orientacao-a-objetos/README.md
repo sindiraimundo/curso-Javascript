@@ -19,7 +19,7 @@
     - criando propriedades, atributos que desejamos que a classe possua
     - instanciando classe com _new_
 
-    ## O que aprendemos
+    **O que aprendemos**
 
     - Criando classes
 
