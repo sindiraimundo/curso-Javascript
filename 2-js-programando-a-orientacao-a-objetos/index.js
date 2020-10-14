@@ -13,6 +13,12 @@ class ContaCorrente{
         }
     }
 
+    depositar(valor){
+        if(valor > 0){
+            this.saldo += valor;
+        }
+    }
+
 }
 
 
@@ -31,11 +37,13 @@ contaCorreteRicardo.agencia = 1001;
 
 
 console.log("saldo", contaCorreteRicardo.saldo);
-contaCorreteRicardo.saldo = 100;
+contaCorreteRicardo.depositar(100);
+contaCorreteRicardo.depositar(200);
+contaCorreteRicardo.depositar(-1);
 console.log("deposito", contaCorreteRicardo.saldo);
 contaCorreteRicardo.sacar(50);
 
 
-console.log("saldo atual após sacar(50): ", contaCorreteRicardo.saldo);
+console.log("saldo atual após sacar: ", contaCorreteRicardo.saldo);
 console.log(cliente1);
 console.log(cliente2);
