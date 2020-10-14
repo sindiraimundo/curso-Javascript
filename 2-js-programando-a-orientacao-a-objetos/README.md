@@ -10,5 +10,21 @@
 
  - Veremos também o uso de get e set assessores, como construtores, para facilitar o fluxo de criação de classes e objetos.
 
- ## O que aprendemos
- 
+ **Dica:** Caso tenha uma versão antiga version 13 do NODE, para que possa alterar entre versões de forma mais simples acesse o link: https://github.com/nvm-sh/nvm.
+    - Caso esteja usando um sistema Windows vocês podem usar o gerenciador de pacotes Chocolatey(https://chocolatey.org/packages/nvm), que auxilia na instalação do NVM no Windows.
+
+1. Repetição de código
+    - como evitar repetição de código
+    - criando nossa primeira classe utilizando a palavra chave _class_
+    - criando propriedades, atributos que desejamos que a classe possua
+    - instanciando classe com _new_
+
+    ## O que aprendemos
+
+    - Criando classes
+
+    - O que são atributos
+
+    - Instâcia/Objeto
+
+    - Operador new
