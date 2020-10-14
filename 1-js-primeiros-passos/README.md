@@ -27,3 +27,6 @@ link: https://nodejs.org/en/
 - Seguindo convenções
     -palavras reservadas const e let, para armazenar textos e números.
 
+3- Operações Aritméticas
+    -definindo ordem de execução
+    -concatenar letra com número
