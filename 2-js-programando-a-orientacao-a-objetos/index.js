@@ -16,13 +16,11 @@ contaCorreteRicardo.cliente = cliente1;
 contaCorreteRicardo.depositar(500);
 
 const conta2 = new ContaCorrente();
-conta2.cliente = null;
-// conta2.cliente.nome = "Alice";
-// conta2.cliente.cpf = 88822233399;
+//conta2.cliente = nwe Cliente();
+conta2.cliente.nome = "Alice";
+conta2.cliente.cpf = 88822233399;
 conta2.agencia = 102;
 
 let valor = 200;                        
 contaCorreteRicardo.transferir(valor, conta2);
-                                        
-console.log("valor: ", valor);//valor guardado na mémoria
 console.log(conta2);//referência(objeto)
