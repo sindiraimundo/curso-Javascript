@@ -19,7 +19,8 @@ const conta2 = new ContaCorrente();
 conta2.cliente = cliente2;
 conta2.agencia = 102;
 
-contaCorreteRicardo.transferir(200, conta2);
-
-console.log(conta2);
-console.log(contaCorreteRicardo);
+let valor = 200;                        
+contaCorreteRicardo.transferir(valor, conta2);
+                                        
+console.log("valor: ", valor);//valor guardado na mémoria
+console.log(conta2);//referência(classe)
