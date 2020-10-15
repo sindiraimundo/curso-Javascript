@@ -28,3 +28,30 @@
     - Instâcia/Objeto
 
     - Operador new
+
+2. Adicionando comportamentos
+    - comportamentos de classes
+        - criando método sacar e adicionando comportamento na classe ContaCorrente
+        - adicionando comportamento(método) de depósito e verificando se não entra valor negativo depositado
+    - atributos privados(utilizando a proposta #) proposta que está sendo feita para uma sintaxe de campos privados dentro do JS. link: https://github.com/tc39/proposal-class-fields#private-fields.
+        - utilizando a proposta de #, para que o saldo não seja alterado fora da classe
+        - atributos privados (_) utilizando _ na frente do atributo, conforme a convenção para torná-lo privado
+    - métodos com retorno
+
+    **O que aprendemos nessa aula:**
+
+    - Criação de métodos
+    
+    - Palavra chave this
+    
+    - Encapsulamento
+    
+    - Proposta de atributos privados
+    
+    - return e early return
+
+3. Modularizando código
+    - Modulos JavaScript
+        - instalando package.json(comando: npm init) e adicionando "type": "module", para que o node reconheça os modulos
+
+  
