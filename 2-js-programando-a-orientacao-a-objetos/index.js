@@ -23,4 +23,4 @@ let valor = 200;
 contaCorreteRicardo.transferir(valor, conta2);
                                         
 console.log("valor: ", valor);//valor guardado na mémoria
-console.log(conta2);//referência(classe)
+console.log(conta2);//referência(objeto)
