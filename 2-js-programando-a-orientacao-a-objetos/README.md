@@ -38,7 +38,7 @@
         - atributos privados (_) utilizando _ na frente do atributo, conforme a convenção para torná-lo privado
     - métodos com retorno
 
-    **O que aprendemos nessa aula:**
+    **O que aprendemos:**
 
     - Criação de métodos
     
@@ -87,7 +87,38 @@
 
  -Modelo de gerenciamento de memória do JS, link: https://medium.com/@ethannam/javascripts-memory-model-7c972cd2c239   
 
+ 4. Acessando Atributos Privados
+    - Null e underfined
+    - Getters e Setters 
+    - instanceof, link: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/instanceof
+    - Encapsulamento com assessores
+    
+    **O que aprendemos**
+    
+    - Diferenças entre null e undefined
 
+    - Aprofundando nos conceitos de referências a um espaço de memória
 
+    - Get e Set 
 
+    - Melhor encapsulamento da classe
+
+    - Protegendo atributos sensíveis
+
+5. Construtores estáticos
+    - construtores
+    - atributos estáticos
+        - deixando um atributo estático inerente à classe como um todo
+
+    **O que aprendemos:**
+
+    - Construtores
+
+    - encapsulamento
+
+    - atributos "readonly"
+
+    - Atributos estáticos    
+
+    <img src="../assets/Certificado Sindi - Alura Javascript primeiros passos.jpg"/>
   
