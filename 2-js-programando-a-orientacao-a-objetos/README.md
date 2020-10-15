@@ -120,5 +120,5 @@
 
     - Atributos estáticos    
 
-    <img src="../assets/Certificado Sindi - Alura Javascript primeiros passos.jpg"/>
+    <img src="../assets/Certificado Sindi Programando a Orientacao a Objetos.jpg"/>
   
