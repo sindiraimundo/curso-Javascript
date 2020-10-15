@@ -53,5 +53,15 @@
 3. Modularizando código
     - Modulos JavaScript
         - instalando package.json(comando: npm init) e adicionando "type": "module", para que o node reconheça os modulos
+    - Composição de classes
+    
+
+**Dica:**Informações sobre scripts npm na Documentação npm link: https://docs.npmjs.com/misc/scripts
+
+- Especificações do tratamento de package.json do npm 
+    - npm-package.json link para documentação: https://docs.npmjs.com/files/package.json
+
+
+
 
   
