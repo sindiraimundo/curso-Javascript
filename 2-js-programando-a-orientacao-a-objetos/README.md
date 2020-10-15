@@ -51,15 +51,41 @@
     - return e early return
 
 3. Modularizando código
-    - Modulos JavaScript
+    - modulos JavaScript
         - instalando package.json(comando: npm init) e adicionando "type": "module", para que o node reconheça os modulos
-    - Composição de classes
-    
+    - composição de classes
+        - criando associações entre as classes Cliente e ContaCorrente 
+    - tipo de valor e tipo de referência
+        - em Javascript os tipos primitivos são:
+            -String (texto)
+            -Number (número)
+            -Boolean
+            -Null
+            -undefined
+            -Symbol
 
-**Dica:**Informações sobre scripts npm na Documentação npm link: https://docs.npmjs.com/misc/scripts
+    **O que aprendemos**   
+
+    - Package.json
+
+    - Modules
+
+    - import/export
+
+    - Quais as vantagens de ter um código onde usamos classes e composição ao invés de tipos primitivos
+
+    - Tipos de valor e tipos de referência
+
+    - Alterando dinamicamente um objeto
+
+**Dicas:**Informações sobre scripts npm na Documentação npm link: https://docs.npmjs.com/misc/scripts
 
 - Especificações do tratamento de package.json do npm 
     - npm-package.json link para documentação: https://docs.npmjs.com/files/package.json
+
+ - Tipos primitivos, link: https://developer.mozilla.org/pt-BR/docs/Glossario/Primitivo
+
+ -Modelo de gerenciamento de memória do JS, link: https://medium.com/@ethannam/javascripts-memory-model-7c972cd2c239   
 
 
 
